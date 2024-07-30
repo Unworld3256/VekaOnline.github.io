@@ -1,0 +1,14 @@
+<svg width="326" height="327" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect y="-39.02205" x="145.55491" width="230" transform="matrix(0.706196 -0.706196 0.706196 0.706196 -74.652 293.784)" stroke-width="0" stroke="#b2b2b2" id="svg_1" height="230" fill="#007fff"/>
+  <rect y="252.63584" x="48.85792" width="180" transform="matrix(0.771362 0.771362 -0.771362 0.771362 320.213 -208.191)" stroke-width="8" stroke="#ffffff" id="svg_5" height="180" fill="#007fff"/>
+  <rect y="206.43353" x="114.00512" width="140" transform="matrix(0.916459 0.916459 -0.916459 0.916459 247.699 -258.701)" stroke="#ffffff" id="svg_16" height="140" fill="#ffffff"/>
+  <rect y="173.98" x="103.72" width="120.76" stroke-width="10" stroke-linejoin="round" stroke="#56aaff" ry="8" rx="8" id="svg_15" height="38.98" fill="#56aaff"/>
+  <text y="207.86998" xml:space="preserve" x="179.48224" transform="matrix(1.08012 0 0 1.08012 -29.716 -19.8378)" text-anchor="middle" stroke-width="0" stroke="#ffffff" lengthAdjust="spacing" id="svg_13" font-weight="bold" font-size="28" font-family="Sans-serif" fill="#ffffff">ONLINE</text>
+  <rect y="115.62" x="75.82" width="172.38" stroke="#56aaff" ry="14" rx="14" id="svg_3" height="50.17" fill="#ffffff"/>
+  <text y="198.91467" xml:space="preserve" x="237.37084" word-spacing="0" transform="matrix(1.93724 0 0 1.99973 -295.601 -238.131)" text-anchor="middle" stroke-linecap="round" stroke="#56aaff" letter-spacing="2" lengthAdjust="spacing" id="svg_11" font-weight="bold" font-size="26" font-family="Sans-serif" fill="#56aaff">VEKA</text>
+ </g>
+</svg>
