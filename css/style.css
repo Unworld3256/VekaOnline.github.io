@@ -4,7 +4,7 @@
     margin: 0 auto;
     padding: 0 auto;
     box-sizing: border-box;
-    outline: 2px solid green !important;
+
 
 }
 
@@ -66,7 +66,6 @@ header nav ul li:not(.btn):hover a {
     margin-top: -5px;
     height: 3px;
     transition: all 100ms ease;
-
 }
 
 header nav ul li.btn a {
@@ -557,10 +556,10 @@ header nav ul li.btn a:hover {
 
 @media (max-width:500px) {
     header nav ul li:not(.btn):hover a {
-        margin-left: 0px;
-        margin-right: 0px;
-        margin-top: 0px;
-        height: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: auto;
+        height: auto;
 
     }
 
@@ -608,17 +607,31 @@ header nav ul li.btn a:hover {
         font-size: 20px;
     }
 
+    .solutions.container h1 {
+        font-size: 40px;
+        padding-bottom: 40px;
+    }
+
     .solutions.main {
         height: 400px;
     }
 
+    .profsis.container h1 {
+        font-size: 40px;
+    }
+
+    .profsis.container h2 {
+        font-size: 28px;
+    }
+
     .okna {
-        height: 650px;
+        height: 670px;
     }
 
     .okna h3 {
         font-size: 10px;
     }
+
 
     .okna li {
         font-size: 10px;
@@ -629,7 +642,7 @@ header nav ul li.btn a:hover {
     }
 
     .uslugi.container h1 {
-        font-size: 48px;
+        font-size: 40px;
         padding-bottom: 20px;
     }
 
@@ -642,7 +655,7 @@ header nav ul li.btn a:hover {
     }
 
     .advantages h1 {
-        font-size: 48px;
+        font-size: 40px;
     }
 
     .advantages h2 {
@@ -654,6 +667,6 @@ header nav ul li.btn a:hover {
     }
 
     .galery h1 {
-        font-size: 48px;
+        font-size: 40px;
     }
 }
