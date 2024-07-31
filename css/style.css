@@ -421,12 +421,6 @@ header nav ul li.btn a:hover {
         column-count: 2;
     }
 
-    .okna {
-        column-count: 2;
-        height: 1770px;
-    }
-}
-
 @media (max-width:1400px) {
     .hero--info h1 {
         font-size: 128px;
