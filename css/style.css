@@ -4,11 +4,11 @@
     margin: 0 auto;
     padding: 0 auto;
     box-sizing: border-box;
+    outline: 2px solid green !important;
 
 }
 
 html {
-    overflow-y: scroll;
     scroll-behavior: smooth;
 }
 
@@ -556,13 +556,22 @@ header nav ul li.btn a:hover {
 }
 
 @media (max-width:500px) {
+    header nav ul li:not(.btn):hover a {
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+        height: 0px;
+
+    }
+
     header nav ul li a {
         font-size: 6px;
     }
+
     header nav {
         top: 5px;
         right: 10px;
-    
+
     }
 
     .logo img {
@@ -574,9 +583,11 @@ header nav ul li.btn a:hover {
     header nav ul li.btn a {
         padding: 3px 5px;
     }
+
     .hero--info .btn {
         font-size: 16px;
     }
+
     .hero--info h1 {
         font-size: 50px;
     }
@@ -588,22 +599,27 @@ header nav ul li.btn a:hover {
     .hero--info p {
         font-size: 24px;
     }
+
     .solutions.container h3 {
         font-size: 10px;
     }
+
     .solutions.container h2 {
         font-size: 16px;
     }
 
-    .solutions.main{
+    .solutions.main {
         height: 350px;
     }
-    .okna  {
+
+    .okna {
         height: 650px;
     }
+
     .okna h3 {
         font-size: 10px;
     }
+
     .okna li {
         font-size: 10px;
     }
@@ -611,6 +627,7 @@ header nav ul li.btn a:hover {
     .okna img {
         width: 80%;
     }
+
     .uslugi.container h1 {
         font-size: 48px;
         padding-bottom: 20px;
@@ -631,6 +648,7 @@ header nav ul li.btn a:hover {
     .advantages h2 {
         font-size: 20px;
     }
+
     .advantages h3 {
         font-size: 10px;
     }
