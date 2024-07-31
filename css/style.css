@@ -4,6 +4,7 @@
     margin: 0 auto;
     padding: 0 auto;
     box-sizing: border-box;
+
 }
 
 html {
@@ -593,6 +594,7 @@ header nav ul li.btn a:hover {
     .solutions.container h2 {
         font-size: 16px;
     }
+
     .solutions.main{
         height: 350px;
     }
