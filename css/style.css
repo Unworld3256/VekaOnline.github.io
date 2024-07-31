@@ -488,7 +488,7 @@ header nav ul li.btn a:hover {
     }
 }
 
-@media (max-width:800px) {
+/*@media (max-width:800px) {
 
     header nav ul li a {
         font-size: 10px;
@@ -553,7 +553,7 @@ header nav ul li.btn a:hover {
     .galery h1 {
         font-size: 48px;
     }
-}
+}*/
 
 @media (max-width:500px) {
     header nav ul li:not(.btn):hover a {
@@ -605,11 +605,11 @@ header nav ul li.btn a:hover {
     }
 
     .solutions.container h2 {
-        font-size: 16px;
+        font-size: 20px;
     }
 
     .solutions.main {
-        height: 350px;
+        height: 400px;
     }
 
     .okna {
