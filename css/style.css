@@ -423,7 +423,7 @@ header nav ul li.btn a:hover {
 
     .okna {
         column-count: 2;
-        height: 1300px;
+        height: 1800px;
     }
 }
 
@@ -457,6 +457,9 @@ header nav ul li.btn a:hover {
 
     .profsis.container h2 {
         font-size: 40px;
+    }
+    .okna{
+        height: 1400px;
     }
 
     .hero--info h1 {
