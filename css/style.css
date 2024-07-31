@@ -155,7 +155,7 @@ header nav ul li.btn a:hover {
 .solutions h2 {
 
     color: #347298;
-    font-size: 48px;
+    font-size: 60px;
     font-weight: 600;
 }
 
@@ -191,13 +191,12 @@ header nav ul li.btn a:hover {
     column-count: 4;
     width: 95%;
     list-style: none;
-    height: 800px;
+    column-width: 25%;
 
 }
 
 .okna img {
     display: block;
-    width: 90%;
     text-align: center;
 }
 
@@ -421,6 +420,11 @@ header nav ul li.btn a:hover {
         column-count: 2;
     }
 
+    .okna {
+        column-count: 2;
+    }
+}
+
 @media (max-width:1400px) {
     .hero--info h1 {
         font-size: 128px;
@@ -428,9 +432,6 @@ header nav ul li.btn a:hover {
 
     header nav ul li a {
         font-size: 19px;
-    }
-    .okna {
-        height: 1590px;
     }
 }
 
@@ -454,13 +455,6 @@ header nav ul li.btn a:hover {
 
     .profsis.container h2 {
         font-size: 40px;
-    }
-    .okna{
-        height: 1120px;
-    }
-
-    .okna img{
-        width:60%;
     }
 
     .hero--info h1 {
@@ -525,12 +519,8 @@ header nav ul li.btn a:hover {
         font-size: 28px;
     }
 
-    .okna {
-        height: 1230px;
-    }
-
-    .okna li {
-        font-size:14px;
+    .okna img {
+        width: 80%;
     }
 
     .hero--info h1 {
