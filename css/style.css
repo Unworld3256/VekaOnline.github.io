@@ -191,12 +191,13 @@ header nav ul li.btn a:hover {
     column-count: 4;
     width: 95%;
     list-style: none;
-    column-width: 25%;
+    height: 800px;
 
 }
 
 .okna img {
     display: block;
+    width: 90%;
     text-align: center;
 }
 
@@ -422,6 +423,7 @@ header nav ul li.btn a:hover {
 
     .okna {
         column-count: 2;
+        height: max-content;
     }
 }
 
