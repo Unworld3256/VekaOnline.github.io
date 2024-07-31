@@ -521,6 +521,10 @@ header nav ul li.btn a:hover {
         font-size: 28px;
     }
 
+    .okna {
+        height: 1100px;
+    }
+
     .okna img {
         width: 80%;
     }
