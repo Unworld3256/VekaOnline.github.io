@@ -4,7 +4,6 @@
     margin: 0 auto;
     padding: 0 auto;
     box-sizing: border-box;
-    outline: 4px solid green !important;
 }
 
 html {
@@ -494,7 +493,7 @@ header nav ul li.btn a:hover {
 @media (max-width:800px) {
 
     header nav ul li a {
-        font-size: 11px;
+        font-size: 8px;
     }
 
     .logo img {
@@ -504,20 +503,20 @@ header nav ul li.btn a:hover {
     }
 
     .solutions.container h1 {
-        font-size: 60px;
+        font-size: 48px;
         padding-bottom: 20px;
     }
 
     .solutions.container h2 {
-        font-size: 30px;
+        font-size: 28px;
     }
 
     .profsis.container h1 {
-        font-size: 60px;
+        font-size: 48px;
     }
 
     .profsis.container h2 {
-        font-size: 30px;
+        font-size: 28px;
     }
 
     .okna img {
@@ -525,35 +524,35 @@ header nav ul li.btn a:hover {
     }
 
     .hero--info h1 {
-        font-size: 80px;
+        font-size: 60px;
     }
 
     .hero--info h2 {
-        font-size: 42px;
+        font-size: 34px;
     }
 
     .uslugi.container h1 {
-        font-size: 60px;
+        font-size: 48px;
         padding-bottom: 20px;
     }
 
     .uslugi.container h2 {
-        font-size: 30px;
+        font-size: 28px;
     }
 
     .uslugi.container h3 {
-        font-size: 24px;
+        font-size: 20px;
     }
 
     .advantages h1 {
-        font-size: 60px;
+        font-size: 48px;
     }
 
     .advantages h2 {
-        font-size: 32px;
+        font-size: 28px;
     }
 
     .galery h1 {
-        font-size: 60px;
+        font-size: 48px;
     }
 }
