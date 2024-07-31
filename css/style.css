@@ -462,6 +462,10 @@ header nav ul li.btn a:hover {
         height: 1400px;
     }
 
+    .okna img{
+        width:80%;
+    }
+
     .hero--info h1 {
         font-size: 128px;
     }
@@ -530,10 +534,6 @@ header nav ul li.btn a:hover {
 
     .okna li {
         font-size:14px;
-    }
-
-    .okna img {
-        width: 80%;
     }
 
     .hero--info h1 {
