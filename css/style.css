@@ -511,82 +511,37 @@ header nav ul li.btn a:hover {
     .galery h1 {
         font-size: 80px;
     }
+    .info.container h1{
+        font-size: 80px;
+        padding-top: 60px;
+        padding-bottom: 15px;
+    }
+    .info.container h2{
+        font-size: 32px;
+        margin-top: 40px;
+    }
+    .info.container h3{
+        font-size: 24px;
+    }
+    .partner.container h1{
+        font-size: 80px;
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+    .partner.container .partner--main{
+        padding-bottom: 20px;
+    }
+    .partner.container .partner--main img{
+        width: 60%;
+    }
 }
 
-/*@media (max-width:800px) {
-
-    header nav ul li a {
-        font-size: 10px;
-    }
-
-    .logo img {
-        width: 10%;
-        padding-top: 1%;
-        left: 10px;
-    }
-
-    .solutions.container h1 {
-        font-size: 48px;
-        padding-bottom: 20px;
-    }
-
-    .solutions.container h2 {
-        font-size: 28px;
-    }
-
-    .profsis.container h1 {
-        font-size: 48px;
-    }
-
-    .profsis.container h2 {
-        font-size: 28px;
-    }
-
-    .okna img {
-        width: 80%;
-    }
-
-    .hero--info h1 {
-        font-size: 60px;
-    }
-
-    .hero--info h2 {
-        font-size: 34px;
-    }
-
-    .uslugi.container h1 {
-        font-size: 48px;
-        padding-bottom: 20px;
-    }
-
-    .uslugi.container h2 {
-        font-size: 28px;
-    }
-
-    .uslugi.container h3 {
-        font-size: 20px;
-    }
-
-    .advantages h1 {
-        font-size: 48px;
-    }
-
-    .advantages h2 {
-        font-size: 28px;
-    }
-
-    .galery h1 {
-        font-size: 48px;
-    }
-}*/
-
-@media (max-width:500px) {
-    
+@media (max-width:800px) {
     header nav {
         width: 95%;
     }
     header nav ul li a {
-        font-size: 5px;
+        font-size: 8px;
     }
 
     header nav {
@@ -713,14 +668,15 @@ header nav ul li.btn a:hover {
         width: 90%;
     }
     .partner.container .partner--main{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        gap: 5px;
         padding-bottom: 20px;
     }
     .partner.container .partner--main img{
-        display: block;
         width: 60%;
+    }
+}
+
+@media (max-width:500px) {
+    header nav ul li a {
+        font-size: 5px;
     }
 }
