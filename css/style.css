@@ -27,13 +27,13 @@ a {
 
 .logo img {
     position: relative;
-    left: 30px;
-    width: 5%;
+    left: 15px;
+    width: 8%;
 }
 
 header nav {
     position: relative;
-    top: 25px;
+    top: 35px;
     right: 20px;
     float: right;
     width: 90%;
@@ -87,14 +87,20 @@ header nav ul li.btn a:hover {
 
 .hero--info h1 {
     color: #347298;
-    font-size: 256px;
+    font-size: 220px;
     font-weight: 800;
 }
 
 .hero--info h2 {
     color: #347298;
     font-size: 60px;
-    font-weight: 600;
+    font-weight: 400;
+}
+
+.hero--info h3 {
+    color: #347298;
+    font-size: 60px;
+    font-weight: 800;
     padding-bottom: 50px;
 }
 
@@ -162,14 +168,14 @@ header nav ul li.btn a:hover {
 }
 
 .profsis.container {
-    padding-top: 50px;
+    padding-top: 80px;
     width: 90%;
 }
 
 .profsis--info h1 {
 
     color: #347298;
-    font-size: 128px;
+    font-size: 110px;
     font-weight: 800;
 
 }
@@ -214,7 +220,7 @@ header nav ul li.btn a:hover {
 
 
 .uslugi.container {
-    padding-top: 50px;
+    padding-top: 80px;
     padding-bottom: 50px;
 
 }
