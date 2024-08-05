@@ -581,14 +581,17 @@ header nav ul li.btn a:hover {
 }*/
 
 @media (max-width:500px) {
-
+    
+    header nav {
+        width: 95%;
+    }
     header nav ul li a {
         font-size: 5px;
     }
 
     header nav {
-        top: 5px;
-        right: 10px;
+        top: 1px;
+        right: 5px;
 
     }
 
